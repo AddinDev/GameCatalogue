@@ -1,0 +1,6 @@
+framework module Pods_Submission_Final_iOS {
+  umbrella header "Pods-Submission Final iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
